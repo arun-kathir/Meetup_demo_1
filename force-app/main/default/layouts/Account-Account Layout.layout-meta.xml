@@ -26,6 +26,10 @@
                 <behavior>Required</behavior>
                 <field>Demo__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Demo_1__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
